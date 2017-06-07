@@ -18,6 +18,6 @@ HW5 Description: -
 Final Description: https://www.youtube.com/watch?v=Aidks-K8kmA
 
 
-A video about how is work midterm project : https://www.youtube.com/watch?v=JDJSUPA1noE
+A video about how is midterm project work: https://www.youtube.com/watch?v=JDJSUPA1noE
 
-A video about how is work final project : https://www.youtube.com/watch?v=y8iEASjHa1s
+A video about how is final project work: https://www.youtube.com/watch?v=y8iEASjHa1s
